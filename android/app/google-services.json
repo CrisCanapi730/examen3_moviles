@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956367172035",
+    "project_id": "proyecto2-700a3",
+    "storage_bucket": "proyecto2-700a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956367172035:android:23f22565bfbc6ca2eb0d76",
+        "android_client_info": {
+          "package_name": "com.canapi.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qSqgqXRXYCN7m5axT8Krww2dD27MU6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
